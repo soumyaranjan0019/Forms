@@ -23,6 +23,7 @@ session_start();
                 <th>AGE</th>
                 <th>EMAIL</th>
                 <th>PASSWORD</th>
+                <th>ACTION</th>
             </tr>
         </thead>
 
